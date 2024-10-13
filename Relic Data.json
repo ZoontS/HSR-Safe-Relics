@@ -1,0 +1,1699 @@
+{
+    "Available Relics": {
+        "Relics": [
+            "Band of Sizzling Thunder",
+            "Champion of Streetwise Boxing",
+            "Eagle of Twilight Line",
+            "Firesmith of Lava-Forging",
+            "Genius of Brilliant Stars",
+            "Guard of Wuthering Snow",
+            "Hunter of Glacial Forest",
+            "Iron Cavalry Against the Scourge",
+            "Knight of Purity Palace",
+            "Longevous Disciple",
+            "Messenger Traversing Hackerspace",
+            "Musketeer of Wild Wheat",
+            "Passerby of Wandering Cloud",
+            "Pioneer Diver of Dead Waters",
+            "Prisoner in Deep Confinement",
+            "The Ashblazing Grand Duke",
+            "The Wind-Soaring Valorous",
+            "Thief of Shooting Meteor",
+            "Wastelander of Banditry Desert",
+            "Watchmaker, Master of Dream Machinations"
+        ],
+        "Planar Ornaments": [
+            "Belobog of the Architects",
+            "Broken Keel",
+            "Celestial Differentiator",
+            "Duran, Dynasty of Running Wolves",
+            "Firmament Frontline: Glamoth",
+            "Fleet of the Ageless",
+            "Forge of the Kalpagni Lantern",
+            "Inert Salsotto",
+            "Izumo Gensei and Takama Divine Realm",
+            "Lushaka, the Sunken Seas",
+            "Pan-Cosmic Commercial Enterprise",
+            "Penacony, Land of the Dreams",
+            "Rutilant Arena",
+            "Sigonia, the Unclaimed Desolation",
+            "Space Sealing Station",
+            "Sprightly Vonwacq",
+            "Talia: Kingdom of Banditry",
+            "The Wondrous BananAmusement Park"
+        ]
+    },
+    "Relic Stats": {
+        "Acheron": {
+            "Relics": [
+                "Pioneer Diver of Dead Waters",
+                "Musketeer of Wild Wheat",
+                "Band of Sizzling Thunder"
+            ],
+            "Planar Ornaments": [
+                "Inert Salsotto",
+                "Izumo Gensei and Takama Divine Realm",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%",
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "ATK%",
+                    "Lightning DMG"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Argenti": {
+            "Relics": [
+                "Champion of Streetwise Boxing",
+                "Musketeer of Wild Wheat"
+            ],
+            "Planar Ornaments": [
+                "Sigonia, the Unclaimed Desolation",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%",
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Arlan": {
+            "Relics": [
+                "Band of Sizzling Thunder",
+                "Musketeer of Wild Wheat",
+                "Longevous Disciple"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Inert Salsotto",
+                "Firmament Frontline: Glamoth",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Lightning DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Asta": {
+            "Relics": [
+                "Musketeer of Wild Wheat",
+                "Messenger Traversing Hackerspace",
+                "Watchmaker, Master of Dream Machinations",
+                "Longevous Disciple"
+            ],
+            "Planar Ornaments": [
+                "Penacony, Land of the Dreams",
+                "Sprightly Vonwacq",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Fire DMG",
+                    "HP%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Aventurine": {
+            "Relics": [
+                "Pioneer Diver of Dead Waters",
+                "Knight of Purity Palace",
+                "The Ashblazing Grand Duke"
+            ],
+            "Planar Ornaments": [
+                "Inert Salsotto",
+                "Belobog of the Architects",
+                "Penacony, Land of the Dreams",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "DEF%",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "DEF%"
+                ],
+                "Planar Sphere": [
+                    "DEF%",
+                    "Imaginary DMG"
+                ],
+                "Link Rope": [
+                    "DEF%"
+                ]
+            }
+        },
+        "Bailu": {
+            "Relics": [
+                "Messenger Traversing Hackerspace",
+                "Passerby of Wandering Cloud"
+            ],
+            "Planar Ornaments": [
+                "Penacony, Land of the Dreams",
+                "Sprightly Vonwacq",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "Outgoing Healing",
+                    "HP%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "HP%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Black Swan": {
+            "Relics": [
+                "Pioneer Diver of Dead Waters",
+                "Musketeer of Wild Wheat",
+                "Prisoner in Deep Confinement",
+                "Eagle of Twilight Line"
+            ],
+            "Planar Ornaments": [
+                "Pan-Cosmic Commercial Enterprise",
+                "Firmament Frontline: Glamoth",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "Effect HIT Rate",
+                    "ATK%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Wind DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Blade": {
+            "Relics": [
+                "Pioneer Diver of Dead Waters",
+                "Messenger Traversing Hackerspace",
+                "Eagle of Twilight Line",
+                "Longevous Disciple"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT DMG",
+                    "CRIT Rate"
+                ],
+                "Feet": [
+                    "Speed",
+                    "HP%"
+                ],
+                "Planar Sphere": [
+                    "Wind DMG",
+                    "HP%"
+                ],
+                "Link Rope": [
+                    "HP%"
+                ]
+            }
+        },
+        "Boothill": {
+            "Relics": [
+                "Watchmaker, Master of Dream Machinations",
+                "Messenger Traversing Hackerspace",
+                "Iron Cavalry Against the Scourge",
+                "Thief of Shooting Meteor",
+                "Genius of Brilliant Stars",
+                "Musketeer of Wild Wheat"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Talia: Kingdom of Banditry",
+                "Firmament Frontline: Glamoth"
+            ],
+            "Stats": {
+                "Body": [
+                    "Anything"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Anything"
+                ],
+                "Link Rope": [
+                    "Break Effect"
+                ]
+            }
+        },
+        "Bronya": {
+            "Relics": [
+                "Messenger Traversing Hackerspace",
+                "Guard of Wuthering Snow"
+            ],
+            "Planar Ornaments": [
+                "Penacony, Land of the Dreams",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Clara": {
+            "Relics": [
+                "Champion of Streetwise Boxing",
+                "The Ashblazing Grand Duke",
+                "Longevous Disciple"
+            ],
+            "Planar Ornaments": [
+                "Duran, Dynasty of Running Wolves",
+                "Rutilant Arena",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Dan Heng": {
+            "Relics": [
+                "Pioneer Diver of Dead Waters",
+                "Musketeer of Wild Wheat",
+                "Eagle of Twilight Line"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Inert Salsotto",
+                "Firmament Frontline: Glamoth",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Wind DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Dan Heng \u2022 Imbibitor Lunae": {
+            "Relics": [
+                "Wastelander of Banditry Desert",
+                "Pioneer Diver of Dead Waters",
+                "Musketeer of Wild Wheat"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Firmament Frontline: Glamoth",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT DMG",
+                    "CRIT Rate"
+                ],
+                "Feet": [
+                    "ATK%",
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Imaginary DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Dr. Ratio": {
+            "Relics": [
+                "Wastelander of Banditry Desert",
+                "Musketeer of Wild Wheat",
+                "Pioneer Diver of Dead Waters",
+                "The Ashblazing Grand Duke"
+            ],
+            "Planar Ornaments": [
+                "Duran, Dynasty of Running Wolves",
+                "Firmament Frontline: Glamoth",
+                "Izumo Gensei and Takama Divine Realm",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Imaginary DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Feixiao": {
+            "Relics": [
+                "The Wind-Soaring Valorous",
+                "Pioneer Diver of Dead Waters",
+                "The Ashblazing Grand Duke",
+                "Eagle of Twilight Line"
+            ],
+            "Planar Ornaments": [
+                "Duran, Dynasty of Running Wolves",
+                "Izumo Gensei and Takama Divine Realm",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%",
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Wind DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Firefly": {
+            "Relics": [
+                "Genius of Brilliant Stars",
+                "Iron Cavalry Against the Scourge",
+                "Thief of Shooting Meteor"
+            ],
+            "Planar Ornaments": [
+                "Talia: Kingdom of Banditry",
+                "Space Sealing Station",
+                "Forge of the Kalpagni Lantern"
+            ],
+            "Stats": {
+                "Body": [
+                    "ATK%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "Break Effect"
+                ]
+            }
+        },
+        "Fu Xuan": {
+            "Relics": [
+                "Guard of Wuthering Snow",
+                "Messenger Traversing Hackerspace",
+                "Longevous Disciple"
+            ],
+            "Planar Ornaments": [
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Feet": [
+                    "Speed",
+                    "HP%"
+                ],
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Gallagher": {
+            "Relics": [
+                "Messenger Traversing Hackerspace",
+                "Passerby of Wandering Cloud",
+                "Thief of Shooting Meteor"
+            ],
+            "Planar Ornaments": [
+                "Talia: Kingdom of Banditry",
+                "Forge of the Kalpagni Lantern",
+                "Penacony, Land of the Dreams",
+                "Broken Keel",
+                "Fleet of the Ageless",
+                "Sprightly Vonwacq"
+            ],
+            "Stats": {
+                "Body": [
+                    "Outgoing Healing"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Gepard": {
+            "Relics": [
+                "Knight of Purity Palace",
+                "Messenger Traversing Hackerspace"
+            ],
+            "Planar Ornaments": [
+                "Belobog of the Architects",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "DEF%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Guinaifen": {
+            "Relics": [
+                "Musketeer of Wild Wheat",
+                "Prisoner in Deep Confinement",
+                "Firesmith of Lava-Forging"
+            ],
+            "Planar Ornaments": [
+                "Fleet of the Ageless",
+                "Pan-Cosmic Commercial Enterprise",
+                "Firmament Frontline: Glamoth",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "ATK%",
+                    "Effect HIT Rate"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Fire DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Hanya": {
+            "Relics": [
+                "Messenger Traversing Hackerspace",
+                "Watchmaker, Master of Dream Machinations",
+                "Longevous Disciple"
+            ],
+            "Planar Ornaments": [
+                "Penacony, Land of the Dreams",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Herta": {
+            "Relics": [
+                "Musketeer of Wild Wheat",
+                "Hunter of Glacial Forest",
+                "The Ashblazing Grand Duke"
+            ],
+            "Planar Ornaments": [
+                "Firmament Frontline: Glamoth",
+                "Sigonia, the Unclaimed Desolation",
+                "Izumo Gensei and Takama Divine Realm",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%",
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Ice DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Himeko": {
+            "Relics": [
+                ""
+            ],
+            "Planar Ornaments": [
+                ""
+            ],
+            "Stats": {
+                "": [
+                    ""
+                ]
+            }
+        },
+        "Hook": {
+            "Relics": [
+                "Pioneer Diver of Dead Waters",
+                "Firesmith of Lava-Forging"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Firmament Frontline: Glamoth",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Fire DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Huohuo": {
+            "Relics": [
+                "Messenger Traversing Hackerspace",
+                "Passerby of Wandering Cloud",
+                "Longevous Disciple"
+            ],
+            "Planar Ornaments": [
+                "Penacony, Land of the Dreams",
+                "Sprightly Vonwacq",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "Outgoing Healing",
+                    "HP%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "HP%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Jade": {
+            "Relics": [
+                "Genius of Brilliant Stars",
+                "Musketeer of Wild Wheat",
+                "The Ashblazing Grand Duke"
+            ],
+            "Planar Ornaments": [
+                "Duran, Dynasty of Running Wolves",
+                "Sigonia, the Unclaimed Desolation",
+                "Izumo Gensei and Takama Divine Realm",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Quantum DMG"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Jiaoqiu": {
+            "Relics": [
+                "Messenger Traversing Hackerspace",
+                "Prisoner in Deep Confinement",
+                "Eagle of Twilight Line"
+            ],
+            "Planar Ornaments": [
+                "Firmament Frontline: Glamoth",
+                "Broken Keel",
+                "Fleet of the Ageless",
+                "Pan-Cosmic Commercial Enterprise",
+                "Sprightly Vonwacq"
+            ],
+            "Stats": {
+                "Body": [
+                    "Effect HIT Rate"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Fire DMG"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Jing Yuan": {
+            "Relics": [
+                "Musketeer of Wild Wheat",
+                "Band of Sizzling Thunder",
+                "The Ashblazing Grand Duke"
+            ],
+            "Planar Ornaments": [
+                "The Wondrous BananAmusement Park",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Lightning DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Jingliu": {
+            "Relics": [
+                "Genius of Brilliant Stars",
+                "Musketeer of Wild Wheat",
+                "Hunter of Glacial Forest",
+                "Messenger Traversing Hackerspace"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Space Sealing Station",
+                "Firmament Frontline: Glamoth",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Ice DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Kafka": {
+            "Relics": [
+                "Band of Sizzling Thunder",
+                "Pioneer Diver of Dead Waters",
+                "Prisoner in Deep Confinement"
+            ],
+            "Planar Ornaments": [
+                "Firmament Frontline: Glamoth",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "ATK%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Lightning DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Luka": {
+            "Relics": [
+                "Champion of Streetwise Boxing",
+                "Pioneer Diver of Dead Waters",
+                "Prisoner in Deep Confinement",
+                "Thief of Shooting Meteor"
+            ],
+            "Planar Ornaments": [
+                "Talia: Kingdom of Banditry",
+                "Pan-Cosmic Commercial Enterprise",
+                "Firmament Frontline: Glamoth",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "Effect HIT Rate",
+                    "ATK%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "Break Effect",
+                    "ATK%"
+                ]
+            }
+        },
+        "Luocha": {
+            "Relics": [
+                "Musketeer of Wild Wheat",
+                "Messenger Traversing Hackerspace",
+                "Passerby of Wandering Cloud"
+            ],
+            "Planar Ornaments": [
+                "Penacony, Land of the Dreams",
+                "Sprightly Vonwacq",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "Outgoing Healing"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Lynx": {
+            "Relics": [
+                "Messenger Traversing Hackerspace",
+                "Passerby of Wandering Cloud",
+                "Longevous Disciple"
+            ],
+            "Planar Ornaments": [
+                "Penacony, Land of the Dreams",
+                "Sprightly Vonwacq",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "Outgoing Healing",
+                    "HP%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "HP%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "March 7th": {
+            "Relics": [
+                "Knight of Purity Palace",
+                "Messenger Traversing Hackerspace"
+            ],
+            "Planar Ornaments": [
+                "Belobog of the Architects",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "Effect HIT Rate",
+                    "DEF%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate",
+                    "DEF%"
+                ]
+            }
+        },
+        "March 7th \u2022 The Hunt": {
+            "Relics": [
+                "Wastelander of Banditry Desert",
+                "Musketeer of Wild Wheat"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Firmament Frontline: Glamoth",
+                "Izumo Gensei and Takama Divine Realm",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Imaginary DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Misha": {
+            "Relics": [
+                "Pioneer Diver of Dead Waters",
+                "Musketeer of Wild Wheat",
+                "Hunter of Glacial Forest"
+            ],
+            "Planar Ornaments": [
+                "Firmament Frontline: Glamoth",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Ice DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Moze": {
+            "Relics": [
+                "Pioneer Diver of Dead Waters",
+                "The Ashblazing Grand Duke",
+                "Band of Sizzling Thunder"
+            ],
+            "Planar Ornaments": [
+                "Duran, Dynasty of Running Wolves",
+                "Izumo Gensei and Takama Divine Realm",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Lightning DMG"
+                ],
+                "Link Rope": [
+                    "ATK"
+                ]
+            }
+        },
+        "Natasha": {
+            "Relics": [
+                "Messenger Traversing Hackerspace",
+                "Passerby of Wandering Cloud",
+                "Longevous Disciple"
+            ],
+            "Planar Ornaments": [
+                "Penacony, Land of the Dreams",
+                "Sprightly Vonwacq",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "Outgoing Healing",
+                    "HP%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "HP%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Pela": {
+            "Relics": [
+                "Messenger Traversing Hackerspace",
+                "Eagle of Twilight Line",
+                "Guard of Wuthering Snow",
+                "Longevous Disciple",
+                "Musketeer of Wild Wheat"
+            ],
+            "Planar Ornaments": [
+                "Penacony, Land of the Dreams",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "Effect HIT Rate",
+                    "HP%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Qingque": {
+            "Relics": [
+                "Genius of Brilliant Stars",
+                "Musketeer of Wild Wheat"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Inert Salsotto",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%",
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Quantum DMG"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Robin": {
+            "Relics": [
+                "Messenger Traversing Hackerspace",
+                "Champion of Streetwise Boxing",
+                "Musketeer of Wild Wheat",
+                "Prisoner in Deep Confinement"
+            ],
+            "Planar Ornaments": [
+                "Penacony, Land of the Dreams",
+                "Broken Keel",
+                "Fleet of the Ageless",
+                "Sprightly Vonwacq",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "ATK"
+                ],
+                "Feet": [
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "ATK%",
+                    "Physical DMG"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Ruan Mei": {
+            "Relics": [
+                "Watchmaker, Master of Dream Machinations",
+                "Messenger Traversing Hackerspace",
+                "Thief of Shooting Meteor"
+            ],
+            "Planar Ornaments": [
+                "Talia: Kingdom of Banditry",
+                "Penacony, Land of the Dreams",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate",
+                    "Break Effect"
+                ]
+            }
+        },
+        "Sampo": {
+            "Relics": [
+                "Pioneer Diver of Dead Waters",
+                "Prisoner in Deep Confinement",
+                "Eagle of Twilight Line"
+            ],
+            "Planar Ornaments": [
+                "Pan-Cosmic Commercial Enterprise",
+                "Firmament Frontline: Glamoth",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "Effect HIT Rate",
+                    "ATK%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Wind DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Seele": {
+            "Relics": [
+                "Genius of Brilliant Stars",
+                "Musketeer of Wild Wheat"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Inert Salsotto",
+                "Firmament Frontline: Glamoth",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Quantum DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Serval": {
+            "Relics": [
+                "Pioneer Diver of Dead Waters",
+                "Band of Sizzling Thunder"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Inert Salsotto",
+                "Firmament Frontline: Glamoth",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Lightning DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Silver Wolf": {
+            "Relics": [
+                "Genius of Brilliant Stars",
+                "Musketeer of Wild Wheat",
+                "Messenger Traversing Hackerspace",
+                "Eagle of Twilight Line"
+            ],
+            "Planar Ornaments": [
+                "Talia: Kingdom of Banditry",
+                "Penacony, Land of the Dreams",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "Effect HIT Rate"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Quantum DMG",
+                    "HP%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Sparkle": {
+            "Relics": [
+                "Messenger Traversing Hackerspace",
+                "Eagle of Twilight Line",
+                "Longevous Disciple",
+                "Guard of Wuthering Snow"
+            ],
+            "Planar Ornaments": [
+                "Penacony, Land of the Dreams",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Sushang": {
+            "Relics": [
+                "Musketeer of Wild Wheat",
+                "Champion of Streetwise Boxing",
+                "Pioneer Diver of Dead Waters"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Space Sealing Station",
+                "Firmament Frontline: Glamoth",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%",
+                    "Break Effect"
+                ]
+            }
+        },
+        "Tingyun": {
+            "Relics": [
+                "Musketeer of Wild Wheat",
+                "Messenger Traversing Hackerspace",
+                "Watchmaker, Master of Dream Machinations",
+                "Guard of Wuthering Snow"
+            ],
+            "Planar Ornaments": [
+                "Penacony, Land of the Dreams",
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "ATK%",
+                    "HP%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "ATK%",
+                    "HP%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Topaz & Numby": {
+            "Relics": [
+                "Musketeer of Wild Wheat",
+                "Pioneer Diver of Dead Waters",
+                "The Ashblazing Grand Duke",
+                "Firesmith of Lava-Forging"
+            ],
+            "Planar Ornaments": [
+                "Duran, Dynasty of Running Wolves",
+                "The Wondrous BananAmusement Park",
+                "Izumo Gensei and Takama Divine Realm",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Fire DMG",
+                    "ATK"
+                ],
+                "Link Rope": [
+                    "ATK"
+                ]
+            }
+        },
+        "Trailblazer (Fire)": {
+            "Relics": [
+                "Knight of Purity Palace",
+                "Messenger Traversing Hackerspace"
+            ],
+            "Planar Ornaments": [
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "DEF%"
+                ],
+                "Feet": [
+                    "Speed",
+                    "DEF%"
+                ],
+                "Planar Sphere": [
+                    "DEF%",
+                    "Fire DMG"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate",
+                    "DEF%"
+                ]
+            }
+        },
+        "Trailblazer (Imaginary)": {
+            "Relics": [
+                "Watchmaker, Master of Dream Machinations",
+                "Messenger Traversing Hackerspace",
+                "Thief of Shooting Meteor"
+            ],
+            "Planar Ornaments": [
+                "Talia: Kingdom of Banditry",
+                "Penacony, Land of the Dreams",
+                "Sprightly Vonwacq",
+                "Forge of the Kalpagni Lantern"
+            ],
+            "Stats": {
+                "Body": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "Break Effect",
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "Trailblazer (Physical)": {
+            "Relics": [
+                "Champion of Streetwise Boxing",
+                "Musketeer of Wild Wheat"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Space Sealing Station",
+                "Firmament Frontline: Glamoth",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%",
+                    "Break Effect"
+                ]
+            }
+        },
+        "Welt": {
+            "Relics": [
+                "Wastelander of Banditry Desert",
+                "Pioneer Diver of Dead Waters",
+                "Musketeer of Wild Wheat"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Firmament Frontline: Glamoth",
+                "Inert Salsotto",
+                "Pan-Cosmic Commercial Enterprise",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "Effect HIT Rate"
+                ],
+                "Feet": [
+                    "Speed"
+                ],
+                "Planar Sphere": [
+                    "Imaginary DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Xueyi": {
+            "Relics": [
+                "Genius of Brilliant Stars",
+                "Musketeer of Wild Wheat",
+                "Thief of Shooting Meteor",
+                "The Ashblazing Grand Duke"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Talia: Kingdom of Banditry",
+                "Firmament Frontline: Glamoth",
+                "Inert Salsotto",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "ATK%",
+                    "Quantum DMG"
+                ],
+                "Link Rope": [
+                    "Break Effect"
+                ]
+            }
+        },
+        "Yanqing": {
+            "Relics": [
+                "Pioneer Diver of Dead Waters",
+                "Hunter of Glacial Forest",
+                "Musketeer of Wild Wheat"
+            ],
+            "Planar Ornaments": [
+                "Rutilant Arena",
+                "Inert Salsotto",
+                "Firmament Frontline: Glamoth",
+                "Space Sealing Station"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Ice DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "Yukong": {
+            "Relics": [
+                "Musketeer of Wild Wheat",
+                "Messenger Traversing Hackerspace",
+                "Longevous Disciple",
+                "Guard of Wuthering Snow"
+            ],
+            "Planar Ornaments": [
+                "Broken Keel",
+                "Fleet of the Ageless"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed",
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Imaginary DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate",
+                    "ATK%"
+                ]
+            }
+        },
+        "Yunli": {
+            "Relics": [
+                "The Wind-Soaring Valorous",
+                "Musketeer of Wild Wheat",
+                "Champion of Streetwise Boxing",
+                "The Ashblazing Grand Duke"
+            ],
+            "Planar Ornaments": [
+                "Duran, Dynasty of Running Wolves",
+                "Inert Salsotto"
+            ],
+            "Stats": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%"
+                ],
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%",
+                    "Energy Regen Rate"
+                ]
+            }
+        }
+    }
+}
