@@ -128,6 +128,6 @@ if __name__ == "__main__":
     relic_data = {"Available Relics": available_relics, "Relic Stats": relic_stats}
     
     with open("Relic Data.json", "w", encoding="utf-8") as f:
-        print(json.dumps(relic_data, indent=4), file=f)
+        print(json.dumps(relic_data, indent=4, ensure_ascii=False), file=f)
 
     driver.quit()
