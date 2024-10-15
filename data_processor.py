@@ -51,37 +51,40 @@ for character in data["Relic Stats"]:
 # print()
 # print(f"Planar Ornaments: {available_ornaments_stats}")
 
-relic_stat_occurence = {}
-ornament_stat_occurence = {}
+relic_occurence = {}
+ornament_occurence = {}
 
 for relic, pieces in available_relics_stats.items():
     for piece, stats in pieces.items():
         for stat, num in stats.items():
-            if num not in relic_stat_occurence:
-                relic_stat_occurence[num] = {relic: {piece: [stat]}}
+            if num not in relic_occurence:
+                relic_occurence[num] = {relic: {piece: [stat]}}
                 continue
-            if relic not in relic_stat_occurence[num]:
-                relic_stat_occurence[num][relic] = {piece: [stat]}
+            if relic not in relic_occurence[num]:
+                relic_occurence[num][relic] = {piece: [stat]}
                 continue
-            if piece not in relic_stat_occurence[num][relic]:
-                relic_stat_occurence[num][relic][piece] = [stat]
+            if piece not in relic_occurence[num][relic]:
+                relic_occurence[num][relic][piece] = [stat]
                 continue
-            relic_stat_occurence[num][relic][piece].append(stat)
+            relic_occurence[num][relic][piece].append(stat)
 for relic, pieces in available_ornaments_stats.items():
     for piece, stats in pieces.items():
         for stat, num in stats.items():
-            if num not in ornament_stat_occurence:
-                ornament_stat_occurence[num] = {relic: {piece: [stat]}}
+            if num not in ornament_occurence:
+                ornament_occurence[num] = {relic: {piece: [stat]}}
                 continue
-            if relic not in ornament_stat_occurence[num]:
-                ornament_stat_occurence[num][relic] = {piece: [stat]}
+            if relic not in ornament_occurence[num]:
+                ornament_occurence[num][relic] = {piece: [stat]}
                 continue
-            if piece not in ornament_stat_occurence[num][relic]:
-                ornament_stat_occurence[num][relic][piece] = [stat]
+            if piece not in ornament_occurence[num][relic]:
+                ornament_occurence[num][relic][piece] = [stat]
                 continue
-            ornament_stat_occurence[num][relic][piece].append(stat)
+            ornament_occurence[num][relic][piece].append(stat)
 
-relic_stat_occurence = dict(sorted(relic_stat_occurence.items()))
-ornament_stat_occurence = dict(sorted(ornament_stat_occurence.items()))
+relic_occurence = dict(sorted(relic_occurence.items()))
+ornament_occurence = dict(sorted(ornament_occurence.items()))
 
-print(ornament_stat_occurence)
+combined_occurence = {"Relics": relic_occurence, "Planar Ornaments": ornament_occurence}
+
+with open("Relic Occurences.json", "w", encoding="utf-8") as f: 
+    print(json.dumps(combined_occurence, ensure_ascii=False, indent=4), file=f)
