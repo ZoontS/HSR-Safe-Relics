@@ -1,0 +1,1486 @@
+{
+    "Relics": {
+        "0": {
+            "Band of Sizzling Thunder": {
+                "Body": [
+                    "HP%",
+                    "DEF%",
+                    "Outgoing Healing",
+                    "Effect HIT Rate"
+                ],
+                "Feet": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Champion of Streetwise Boxing": {
+                "Body": [
+                    "HP%",
+                    "DEF%",
+                    "Outgoing Healing"
+                ],
+                "Feet": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Eagle of Twilight Line": {
+                "Body": [
+                    "DEF%",
+                    "Outgoing Healing"
+                ],
+                "Feet": [
+                    "DEF%"
+                ]
+            },
+            "Firesmith of Lava-Forging": {
+                "Body": [
+                    "HP%",
+                    "DEF%",
+                    "Outgoing Healing"
+                ],
+                "Feet": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Genius of Brilliant Stars": {
+                "Feet": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Guard of Wuthering Snow": {
+                "Body": [
+                    "Outgoing Healing"
+                ],
+                "Feet": [
+                    "DEF%"
+                ]
+            },
+            "Hunter of Glacial Forest": {
+                "Body": [
+                    "HP%",
+                    "ATK%",
+                    "DEF%",
+                    "Outgoing Healing",
+                    "Effect HIT Rate"
+                ],
+                "Feet": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Iron Cavalry Against the Scourge": {
+                "Feet": [
+                    "HP%",
+                    "ATK%",
+                    "DEF%"
+                ]
+            },
+            "Knight of Purity Palace": {
+                "Body": [
+                    "HP%",
+                    "ATK%",
+                    "CRIT Rate",
+                    "Outgoing Healing"
+                ],
+                "Feet": [
+                    "HP%",
+                    "ATK%"
+                ]
+            },
+            "Longevous Disciple": {
+                "Body": [
+                    "ATK%"
+                ],
+                "Feet": [
+                    "DEF%"
+                ]
+            },
+            "Musketeer of Wild Wheat": {
+                "Feet": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Passerby of Wandering Cloud": {
+                "Body": [
+                    "ATK%",
+                    "DEF%",
+                    "CRIT Rate",
+                    "CRIT DMG",
+                    "Effect HIT Rate"
+                ],
+                "Feet": [
+                    "HP%",
+                    "ATK%",
+                    "DEF%"
+                ]
+            },
+            "Pioneer Diver of Dead Waters": {
+                "Body": [
+                    "HP%",
+                    "Outgoing Healing"
+                ]
+            },
+            "Prisoner in Deep Confinement": {
+                "Body": [
+                    "HP%",
+                    "DEF%",
+                    "CRIT Rate",
+                    "CRIT DMG",
+                    "Outgoing Healing"
+                ],
+                "Feet": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "The Ashblazing Grand Duke": {
+                "Body": [
+                    "HP%",
+                    "ATK%",
+                    "Outgoing Healing",
+                    "Effect HIT Rate"
+                ],
+                "Feet": [
+                    "HP%"
+                ]
+            },
+            "The Wind-Soaring Valorous": {
+                "Body": [
+                    "HP%",
+                    "ATK%",
+                    "DEF%",
+                    "Outgoing Healing",
+                    "Effect HIT Rate"
+                ],
+                "Feet": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Thief of Shooting Meteor": {
+                "Feet": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Wastelander of Banditry Desert": {
+                "Body": [
+                    "HP%",
+                    "ATK%",
+                    "DEF%",
+                    "Outgoing Healing"
+                ],
+                "Feet": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Watchmaker, Master of Dream Machinations": {
+                "Feet": [
+                    "HP%",
+                    "ATK%",
+                    "DEF%"
+                ]
+            }
+        },
+        "1": {
+            "Band of Sizzling Thunder": {
+                "Body": [
+                    "ATK%"
+                ]
+            },
+            "Champion of Streetwise Boxing": {
+                "Body": [
+                    "Effect HIT Rate"
+                ]
+            },
+            "Eagle of Twilight Line": {
+                "Body": [
+                    "HP%"
+                ],
+                "Feet": [
+                    "HP%"
+                ]
+            },
+            "Firesmith of Lava-Forging": {
+                "Body": [
+                    "ATK%",
+                    "Effect HIT Rate"
+                ]
+            },
+            "Genius of Brilliant Stars": {
+                "Body": [
+                    "HP%",
+                    "DEF%",
+                    "Outgoing Healing"
+                ]
+            },
+            "Guard of Wuthering Snow": {
+                "Body": [
+                    "ATK%",
+                    "DEF%",
+                    "CRIT Rate",
+                    "Effect HIT Rate"
+                ],
+                "Feet": [
+                    "HP%",
+                    "ATK%"
+                ]
+            },
+            "Iron Cavalry Against the Scourge": {
+                "Body": [
+                    "HP%",
+                    "DEF%",
+                    "CRIT Rate",
+                    "CRIT DMG",
+                    "Outgoing Healing",
+                    "Effect HIT Rate"
+                ]
+            },
+            "Knight of Purity Palace": {
+                "Body": [
+                    "CRIT DMG",
+                    "Effect HIT Rate"
+                ]
+            },
+            "Longevous Disciple": {
+                "Body": [
+                    "Effect HIT Rate"
+                ]
+            },
+            "Messenger Traversing Hackerspace": {
+                "Feet": [
+                    "DEF%"
+                ]
+            },
+            "Pioneer Diver of Dead Waters": {
+                "Body": [
+                    "DEF%"
+                ],
+                "Feet": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Prisoner in Deep Confinement": {
+                "Feet": [
+                    "ATK%"
+                ]
+            },
+            "The Ashblazing Grand Duke": {
+                "Body": [
+                    "DEF%"
+                ],
+                "Feet": [
+                    "DEF%"
+                ]
+            },
+            "The Wind-Soaring Valorous": {
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "Thief of Shooting Meteor": {
+                "Feet": [
+                    "ATK%"
+                ]
+            },
+            "Wastelander of Banditry Desert": {
+                "Body": [
+                    "Effect HIT Rate"
+                ]
+            },
+            "Watchmaker, Master of Dream Machinations": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG",
+                    "Outgoing Healing",
+                    "Effect HIT Rate"
+                ]
+            }
+        },
+        "2": {
+            "Champion of Streetwise Boxing": {
+                "Body": [
+                    "ATK%"
+                ]
+            },
+            "Eagle of Twilight Line": {
+                "Body": [
+                    "ATK%"
+                ],
+                "Feet": [
+                    "ATK%"
+                ]
+            },
+            "Firesmith of Lava-Forging": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%"
+                ]
+            },
+            "Genius of Brilliant Stars": {
+                "Body": [
+                    "ATK%",
+                    "Effect HIT Rate"
+                ]
+            },
+            "Hunter of Glacial Forest": {
+                "Body": [
+                    "CRIT Rate"
+                ]
+            },
+            "Iron Cavalry Against the Scourge": {
+                "Body": [
+                    "ATK%"
+                ],
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "Knight of Purity Palace": {
+                "Feet": [
+                    "DEF%"
+                ]
+            },
+            "Longevous Disciple": {
+                "Feet": [
+                    "HP%"
+                ]
+            },
+            "Messenger Traversing Hackerspace": {
+                "Feet": [
+                    "HP%"
+                ]
+            },
+            "The Wind-Soaring Valorous": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%"
+                ]
+            },
+            "Thief of Shooting Meteor": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG",
+                    "Outgoing Healing",
+                    "Effect HIT Rate"
+                ]
+            },
+            "Watchmaker, Master of Dream Machinations": {
+                "Body": [
+                    "ATK%"
+                ]
+            }
+        },
+        "3": {
+            "Eagle of Twilight Line": {
+                "Body": [
+                    "CRIT Rate"
+                ]
+            },
+            "Firesmith of Lava-Forging": {
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "Guard of Wuthering Snow": {
+                "Body": [
+                    "HP%",
+                    "CRIT DMG"
+                ]
+            },
+            "Longevous Disciple": {
+                "Body": [
+                    "DEF%",
+                    "Outgoing Healing"
+                ],
+                "Feet": [
+                    "ATK%"
+                ]
+            },
+            "Messenger Traversing Hackerspace": {
+                "Body": [
+                    "ATK%",
+                    "CRIT Rate"
+                ],
+                "Feet": [
+                    "ATK%"
+                ]
+            },
+            "Thief of Shooting Meteor": {
+                "Body": [
+                    "HP%",
+                    "ATK%",
+                    "DEF%"
+                ]
+            },
+            "Wastelander of Banditry Desert": {
+                "Body": [
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%"
+                ]
+            }
+        },
+        "4": {
+            "Band of Sizzling Thunder": {
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "Champion of Streetwise Boxing": {
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "Eagle of Twilight Line": {
+                "Body": [
+                    "CRIT DMG"
+                ]
+            },
+            "Hunter of Glacial Forest": {
+                "Body": [
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%",
+                    "Speed"
+                ]
+            },
+            "Knight of Purity Palace": {
+                "Body": [
+                    "DEF%"
+                ],
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "Longevous Disciple": {
+                "Body": [
+                    "CRIT Rate"
+                ]
+            },
+            "Passerby of Wandering Cloud": {
+                "Body": [
+                    "HP%"
+                ]
+            },
+            "Pioneer Diver of Dead Waters": {
+                "Body": [
+                    "ATK%",
+                    "Effect HIT Rate"
+                ]
+            },
+            "Wastelander of Banditry Desert": {
+                "Body": [
+                    "CRIT Rate"
+                ],
+                "Feet": [
+                    "Speed"
+                ]
+            }
+        },
+        "5": {
+            "Band of Sizzling Thunder": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "ATK%"
+                ]
+            },
+            "Champion of Streetwise Boxing": {
+                "Body": [
+                    "CRIT Rate",
+                    "CRIT DMG"
+                ]
+            },
+            "Eagle of Twilight Line": {
+                "Body": [
+                    "Effect HIT Rate"
+                ]
+            },
+            "Genius of Brilliant Stars": {
+                "Body": [
+                    "CRIT Rate"
+                ],
+                "Feet": [
+                    "ATK%"
+                ]
+            },
+            "Longevous Disciple": {
+                "Body": [
+                    "CRIT DMG"
+                ]
+            },
+            "Messenger Traversing Hackerspace": {
+                "Body": [
+                    "Effect HIT Rate"
+                ]
+            },
+            "Musketeer of Wild Wheat": {
+                "Body": [
+                    "DEF%",
+                    "Outgoing Healing"
+                ]
+            },
+            "Prisoner in Deep Confinement": {
+                "Body": [
+                    "Effect HIT Rate"
+                ]
+            },
+            "Watchmaker, Master of Dream Machinations": {
+                "Body": [
+                    "DEF%"
+                ]
+            }
+        },
+        "6": {
+            "Champion of Streetwise Boxing": {
+                "Feet": [
+                    "ATK%"
+                ]
+            },
+            "Genius of Brilliant Stars": {
+                "Body": [
+                    "CRIT DMG"
+                ],
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "Guard of Wuthering Snow": {
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "Messenger Traversing Hackerspace": {
+                "Body": [
+                    "CRIT DMG"
+                ]
+            },
+            "Passerby of Wandering Cloud": {
+                "Body": [
+                    "Outgoing Healing"
+                ],
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "Prisoner in Deep Confinement": {
+                "Body": [
+                    "ATK%"
+                ],
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "The Ashblazing Grand Duke": {
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "Watchmaker, Master of Dream Machinations": {
+                "Body": [
+                    "HP%"
+                ],
+                "Feet": [
+                    "Speed"
+                ]
+            }
+        },
+        "7": {
+            "Longevous Disciple": {
+                "Body": [
+                    "HP%"
+                ]
+            },
+            "Messenger Traversing Hackerspace": {
+                "Body": [
+                    "Outgoing Healing"
+                ]
+            },
+            "Musketeer of Wild Wheat": {
+                "Body": [
+                    "HP%"
+                ]
+            },
+            "Thief of Shooting Meteor": {
+                "Feet": [
+                    "Speed"
+                ]
+            }
+        },
+        "8": {
+            "Musketeer of Wild Wheat": {
+                "Body": [
+                    "ATK%"
+                ]
+            }
+        },
+        "9": {
+            "Eagle of Twilight Line": {
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "Messenger Traversing Hackerspace": {
+                "Body": [
+                    "DEF%"
+                ]
+            },
+            "Musketeer of Wild Wheat": {
+                "Body": [
+                    "Effect HIT Rate"
+                ]
+            }
+        },
+        "10": {
+            "The Ashblazing Grand Duke": {
+                "Body": [
+                    "CRIT Rate"
+                ],
+                "Feet": [
+                    "ATK%"
+                ]
+            }
+        },
+        "11": {
+            "Longevous Disciple": {
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "The Ashblazing Grand Duke": {
+                "Body": [
+                    "CRIT DMG"
+                ]
+            }
+        },
+        "12": {
+            "Messenger Traversing Hackerspace": {
+                "Body": [
+                    "HP%"
+                ]
+            },
+            "Pioneer Diver of Dead Waters": {
+                "Feet": [
+                    "ATK%"
+                ]
+            }
+        },
+        "13": {
+            "Pioneer Diver of Dead Waters": {
+                "Body": [
+                    "CRIT Rate"
+                ]
+            }
+        },
+        "14": {
+            "Pioneer Diver of Dead Waters": {
+                "Body": [
+                    "CRIT DMG"
+                ]
+            }
+        },
+        "18": {
+            "Pioneer Diver of Dead Waters": {
+                "Feet": [
+                    "Speed"
+                ]
+            }
+        },
+        "22": {
+            "Musketeer of Wild Wheat": {
+                "Feet": [
+                    "ATK%"
+                ]
+            }
+        },
+        "24": {
+            "Messenger Traversing Hackerspace": {
+                "Feet": [
+                    "Speed"
+                ]
+            },
+            "Musketeer of Wild Wheat": {
+                "Body": [
+                    "CRIT Rate"
+                ]
+            }
+        },
+        "25": {
+            "Musketeer of Wild Wheat": {
+                "Body": [
+                    "CRIT DMG"
+                ]
+            }
+        },
+        "26": {
+            "Musketeer of Wild Wheat": {
+                "Feet": [
+                    "Speed"
+                ]
+            }
+        }
+    },
+    "Planar Ornaments": {
+        "0": {
+            "Belobog of the Architects": {
+                "Planar Sphere": [
+                    "HP%",
+                    "ATK%",
+                    "Physical DMG",
+                    "Fire DMG",
+                    "Ice DMG",
+                    "Lightning DMG",
+                    "Wind DMG",
+                    "Quantum DMG"
+                ],
+                "Link Rope": [
+                    "Break Effect",
+                    "HP%",
+                    "ATK%"
+                ]
+            },
+            "Broken Keel": {
+                "Planar Sphere": [
+                    "Ice DMG",
+                    "Lightning DMG",
+                    "Wind DMG"
+                ],
+                "Link Rope": [
+                    "HP%"
+                ]
+            },
+            "Celestial Differentiator": {
+                "Planar Sphere": [
+                    "HP%",
+                    "ATK%",
+                    "DEF%",
+                    "Physical DMG",
+                    "Fire DMG",
+                    "Ice DMG",
+                    "Lightning DMG",
+                    "Wind DMG",
+                    "Quantum DMG",
+                    "Imaginary DMG"
+                ],
+                "Link Rope": [
+                    "Break Effect",
+                    "Energy Regen Rate",
+                    "HP%",
+                    "ATK%",
+                    "DEF%"
+                ]
+            },
+            "Duran, Dynasty of Running Wolves": {
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%",
+                    "Ice DMG"
+                ],
+                "Link Rope": [
+                    "Break Effect",
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Firmament Frontline: Glamoth": {
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Fleet of the Ageless": {
+                "Planar Sphere": [
+                    "Ice DMG",
+                    "Lightning DMG",
+                    "Wind DMG"
+                ],
+                "Link Rope": [
+                    "HP%"
+                ]
+            },
+            "Forge of the Kalpagni Lantern": {
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "Fire DMG",
+                    "Ice DMG",
+                    "Lightning DMG",
+                    "Wind DMG",
+                    "Quantum DMG",
+                    "Imaginary DMG"
+                ],
+                "Link Rope": [
+                    "HP%",
+                    "ATK%",
+                    "DEF%"
+                ]
+            },
+            "Izumo Gensei and Takama Divine Realm": {
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%",
+                    "Physical DMG"
+                ],
+                "Link Rope": [
+                    "Break Effect",
+                    "Energy Regen Rate",
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Lushaka, the Sunken Seas": {
+                "Planar Sphere": [
+                    "HP%",
+                    "ATK%",
+                    "DEF%",
+                    "Physical DMG",
+                    "Fire DMG",
+                    "Ice DMG",
+                    "Lightning DMG",
+                    "Wind DMG",
+                    "Quantum DMG",
+                    "Imaginary DMG"
+                ],
+                "Link Rope": [
+                    "Break Effect",
+                    "Energy Regen Rate",
+                    "HP%",
+                    "ATK%",
+                    "DEF%"
+                ]
+            },
+            "Pan-Cosmic Commercial Enterprise": {
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%",
+                    "Ice DMG",
+                    "Lightning DMG",
+                    "Quantum DMG"
+                ],
+                "Link Rope": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Penacony, Land of the Dreams": {
+                "Planar Sphere": [
+                    "Ice DMG",
+                    "Lightning DMG",
+                    "Wind DMG"
+                ],
+                "Link Rope": [
+                    "HP%",
+                    "ATK%"
+                ]
+            },
+            "Rutilant Arena": {
+                "Planar Sphere": [
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate",
+                    "DEF%"
+                ]
+            },
+            "Sigonia, the Unclaimed Desolation": {
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%",
+                    "Fire DMG",
+                    "Lightning DMG",
+                    "Wind DMG",
+                    "Imaginary DMG"
+                ],
+                "Link Rope": [
+                    "Break Effect",
+                    "Energy Regen Rate",
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Space Sealing Station": {
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Sprightly Vonwacq": {
+                "Planar Sphere": [
+                    "Ice DMG",
+                    "Lightning DMG",
+                    "Wind DMG",
+                    "Quantum DMG",
+                    "Imaginary DMG"
+                ],
+                "Link Rope": [
+                    "HP%",
+                    "ATK%",
+                    "DEF%"
+                ]
+            },
+            "Talia: Kingdom of Banditry": {
+                "Planar Sphere": [
+                    "Fire DMG",
+                    "Ice DMG",
+                    "Lightning DMG",
+                    "Wind DMG",
+                    "Imaginary DMG"
+                ],
+                "Link Rope": [
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "The Wondrous BananAmusement Park": {
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%",
+                    "Physical DMG",
+                    "Ice DMG",
+                    "Wind DMG",
+                    "Quantum DMG",
+                    "Imaginary DMG"
+                ],
+                "Link Rope": [
+                    "Break Effect",
+                    "Energy Regen Rate",
+                    "HP%",
+                    "DEF%"
+                ]
+            }
+        },
+        "1": {
+            "Belobog of the Architects": {
+                "Planar Sphere": [
+                    "Imaginary DMG"
+                ]
+            },
+            "Broken Keel": {
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "Quantum DMG"
+                ],
+                "Link Rope": [
+                    "Break Effect",
+                    "ATK%"
+                ]
+            },
+            "Duran, Dynasty of Running Wolves": {
+                "Planar Sphere": [
+                    "Fire DMG",
+                    "Lightning DMG",
+                    "Wind DMG",
+                    "Quantum DMG",
+                    "Imaginary DMG"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            },
+            "Firmament Frontline: Glamoth": {
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            },
+            "Fleet of the Ageless": {
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "Quantum DMG"
+                ],
+                "Link Rope": [
+                    "Break Effect"
+                ]
+            },
+            "Forge of the Kalpagni Lantern": {
+                "Planar Sphere": [
+                    "ATK%"
+                ]
+            },
+            "Inert Salsotto": {
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%",
+                    "Fire DMG"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate",
+                    "HP%",
+                    "DEF%"
+                ]
+            },
+            "Izumo Gensei and Takama Divine Realm": {
+                "Planar Sphere": [
+                    "Fire DMG",
+                    "Ice DMG",
+                    "Wind DMG",
+                    "Quantum DMG"
+                ]
+            },
+            "Pan-Cosmic Commercial Enterprise": {
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "Imaginary DMG"
+                ],
+                "Link Rope": [
+                    "Break Effect",
+                    "Energy Regen Rate"
+                ]
+            },
+            "Penacony, Land of the Dreams": {
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "Fire DMG",
+                    "Quantum DMG",
+                    "Imaginary DMG"
+                ],
+                "Link Rope": [
+                    "DEF%"
+                ]
+            },
+            "Rutilant Arena": {
+                "Planar Sphere": [
+                    "HP%",
+                    "Fire DMG"
+                ],
+                "Link Rope": [
+                    "HP%"
+                ]
+            },
+            "Sigonia, the Unclaimed Desolation": {
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "Ice DMG",
+                    "Quantum DMG"
+                ]
+            },
+            "Space Sealing Station": {
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            },
+            "Sprightly Vonwacq": {
+                "Planar Sphere": [
+                    "Physical DMG"
+                ],
+                "Link Rope": [
+                    "Break Effect"
+                ]
+            },
+            "Talia: Kingdom of Banditry": {
+                "Planar Sphere": [
+                    "Physical DMG"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            },
+            "The Wondrous BananAmusement Park": {
+                "Planar Sphere": [
+                    "Fire DMG",
+                    "Lightning DMG"
+                ]
+            }
+        },
+        "2": {
+            "Belobog of the Architects": {
+                "Link Rope": [
+                    "Energy Regen Rate",
+                    "DEF%"
+                ]
+            },
+            "Broken Keel": {
+                "Planar Sphere": [
+                    "Imaginary DMG"
+                ]
+            },
+            "Duran, Dynasty of Running Wolves": {
+                "Planar Sphere": [
+                    "Physical DMG"
+                ]
+            },
+            "Firmament Frontline: Glamoth": {
+                "Planar Sphere": [
+                    "Quantum DMG"
+                ]
+            },
+            "Fleet of the Ageless": {
+                "Planar Sphere": [
+                    "Imaginary DMG"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            },
+            "Forge of the Kalpagni Lantern": {
+                "Planar Sphere": [
+                    "HP%",
+                    "DEF%"
+                ],
+                "Link Rope": [
+                    "Break Effect",
+                    "Energy Regen Rate"
+                ]
+            },
+            "Izumo Gensei and Takama Divine Realm": {
+                "Planar Sphere": [
+                    "Lightning DMG",
+                    "Imaginary DMG"
+                ]
+            },
+            "Pan-Cosmic Commercial Enterprise": {
+                "Planar Sphere": [
+                    "Fire DMG",
+                    "Wind DMG"
+                ]
+            },
+            "Penacony, Land of the Dreams": {
+                "Link Rope": [
+                    "Break Effect"
+                ]
+            },
+            "Rutilant Arena": {
+                "Planar Sphere": [
+                    "Ice DMG",
+                    "Lightning DMG",
+                    "Wind DMG"
+                ]
+            },
+            "Sigonia, the Unclaimed Desolation": {
+                "Planar Sphere": [
+                    "ATK%"
+                ]
+            },
+            "Space Sealing Station": {
+                "Planar Sphere": [
+                    "Fire DMG",
+                    "Ice DMG",
+                    "Imaginary DMG"
+                ]
+            },
+            "Sprightly Vonwacq": {
+                "Planar Sphere": [
+                    "ATK%",
+                    "DEF%",
+                    "Fire DMG"
+                ]
+            },
+            "Talia: Kingdom of Banditry": {
+                "Planar Sphere": [
+                    "Quantum DMG"
+                ]
+            },
+            "The Wondrous BananAmusement Park": {
+                "Planar Sphere": [
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "3": {
+            "Belobog of the Architects": {
+                "Planar Sphere": [
+                    "DEF%"
+                ]
+            },
+            "Broken Keel": {
+                "Planar Sphere": [
+                    "Fire DMG"
+                ],
+                "Link Rope": [
+                    "DEF%"
+                ]
+            },
+            "Firmament Frontline: Glamoth": {
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "Fire DMG",
+                    "Lightning DMG",
+                    "Wind DMG"
+                ]
+            },
+            "Fleet of the Ageless": {
+                "Link Rope": [
+                    "DEF%"
+                ]
+            },
+            "Inert Salsotto": {
+                "Planar Sphere": [
+                    "Wind DMG"
+                ],
+                "Link Rope": [
+                    "Break Effect"
+                ]
+            },
+            "Penacony, Land of the Dreams": {
+                "Planar Sphere": [
+                    "ATK%"
+                ]
+            },
+            "Rutilant Arena": {
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "Quantum DMG",
+                    "Imaginary DMG"
+                ]
+            },
+            "Sigonia, the Unclaimed Desolation": {
+                "Link Rope": [
+                    "ATK%"
+                ]
+            },
+            "Space Sealing Station": {
+                "Planar Sphere": [
+                    "Wind DMG",
+                    "Quantum DMG"
+                ]
+            },
+            "Talia: Kingdom of Banditry": {
+                "Planar Sphere": [
+                    "ATK%",
+                    "DEF%"
+                ]
+            }
+        },
+        "4": {
+            "Broken Keel": {
+                "Planar Sphere": [
+                    "ATK%"
+                ]
+            },
+            "Firmament Frontline: Glamoth": {
+                "Planar Sphere": [
+                    "Ice DMG",
+                    "Imaginary DMG"
+                ]
+            },
+            "Fleet of the Ageless": {
+                "Planar Sphere": [
+                    "Fire DMG"
+                ]
+            },
+            "Inert Salsotto": {
+                "Planar Sphere": [
+                    "Ice DMG",
+                    "Quantum DMG",
+                    "Imaginary DMG"
+                ]
+            },
+            "Rutilant Arena": {
+                "Link Rope": [
+                    "Break Effect"
+                ]
+            },
+            "Space Sealing Station": {
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "Lightning DMG"
+                ]
+            },
+            "Talia: Kingdom of Banditry": {
+                "Planar Sphere": [
+                    "HP%"
+                ],
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "5": {
+            "Duran, Dynasty of Running Wolves": {
+                "Planar Sphere": [
+                    "ATK%"
+                ]
+            },
+            "Firmament Frontline: Glamoth": {
+                "Link Rope": [
+                    "Break Effect"
+                ]
+            },
+            "Fleet of the Ageless": {
+                "Planar Sphere": [
+                    "ATK%"
+                ]
+            },
+            "Inert Salsotto": {
+                "Planar Sphere": [
+                    "Physical DMG",
+                    "Lightning DMG"
+                ]
+            },
+            "Pan-Cosmic Commercial Enterprise": {
+                "Planar Sphere": [
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            },
+            "Space Sealing Station": {
+                "Link Rope": [
+                    "Break Effect"
+                ]
+            }
+        },
+        "6": {
+            "Izumo Gensei and Takama Divine Realm": {
+                "Planar Sphere": [
+                    "ATK%"
+                ]
+            },
+            "Talia: Kingdom of Banditry": {
+                "Link Rope": [
+                    "Break Effect"
+                ]
+            }
+        },
+        "7": {
+            "Duran, Dynasty of Running Wolves": {
+                "Link Rope": [
+                    "ATK%"
+                ]
+            },
+            "Sprightly Vonwacq": {
+                "Planar Sphere": [
+                    "HP%"
+                ]
+            }
+        },
+        "8": {
+            "Izumo Gensei and Takama Divine Realm": {
+                "Link Rope": [
+                    "ATK%"
+                ]
+            },
+            "Penacony, Land of the Dreams": {
+                "Planar Sphere": [
+                    "DEF%"
+                ]
+            }
+        },
+        "10": {
+            "Sprightly Vonwacq": {
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "11": {
+            "Broken Keel": {
+                "Planar Sphere": [
+                    "DEF%"
+                ]
+            },
+            "Fleet of the Ageless": {
+                "Planar Sphere": [
+                    "DEF%"
+                ]
+            }
+        },
+        "14": {
+            "Broken Keel": {
+                "Planar Sphere": [
+                    "HP%"
+                ]
+            },
+            "Fleet of the Ageless": {
+                "Planar Sphere": [
+                    "HP%"
+                ]
+            },
+            "Penacony, Land of the Dreams": {
+                "Planar Sphere": [
+                    "HP%"
+                ]
+            },
+            "Rutilant Arena": {
+                "Planar Sphere": [
+                    "ATK%"
+                ],
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "16": {
+            "Penacony, Land of the Dreams": {
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            }
+        },
+        "18": {
+            "Space Sealing Station": {
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        },
+        "20": {
+            "Firmament Frontline: Glamoth": {
+                "Link Rope": [
+                    "ATK%"
+                ]
+            },
+            "Space Sealing Station": {
+                "Planar Sphere": [
+                    "ATK%"
+                ]
+            }
+        },
+        "21": {
+            "Broken Keel": {
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            },
+            "Firmament Frontline: Glamoth": {
+                "Planar Sphere": [
+                    "ATK%"
+                ]
+            },
+            "Fleet of the Ageless": {
+                "Link Rope": [
+                    "Energy Regen Rate"
+                ]
+            },
+            "Inert Salsotto": {
+                "Planar Sphere": [
+                    "ATK%"
+                ]
+            }
+        },
+        "23": {
+            "Inert Salsotto": {
+                "Link Rope": [
+                    "ATK%"
+                ]
+            }
+        }
+    }
+}
