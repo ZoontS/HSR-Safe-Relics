@@ -675,19 +675,6 @@
                 ]
             }
         },
-        "Himeko": {
-            "Relics": [
-                ""
-            ],
-            "Planar Ornaments": [
-                ""
-            ],
-            "Stats": {
-                "": [
-                    ""
-                ]
-            }
-        },
         "Hook": {
             "Relics": [
                 "Pioneer Diver of Dead Waters",
@@ -1076,7 +1063,7 @@
                     "Lightning DMG"
                 ],
                 "Link Rope": [
-                    "ATK"
+                    "ATK%"
                 ]
             }
         },
@@ -1181,7 +1168,7 @@
             ],
             "Stats": {
                 "Body": [
-                    "ATK"
+                    "ATK%"
                 ],
                 "Feet": [
                     "ATK%"
@@ -1451,10 +1438,10 @@
                 ],
                 "Planar Sphere": [
                     "Fire DMG",
-                    "ATK"
+                    "ATK%"
                 ],
                 "Link Rope": [
-                    "ATK"
+                    "ATK%"
                 ]
             }
         },
