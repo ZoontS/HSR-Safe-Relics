@@ -906,7 +906,6 @@
                 "Planar Sphere": [
                     "HP%",
                     "DEF%",
-                    "Fire DMG",
                     "Lightning DMG",
                     "Wind DMG",
                     "Imaginary DMG"
@@ -1074,7 +1073,8 @@
                 "Planar Sphere": [
                     "Physical DMG",
                     "Ice DMG",
-                    "Quantum DMG"
+                    "Quantum DMG",
+                    "Fire DMG"
                 ]
             },
             "Space Sealing Station": {
