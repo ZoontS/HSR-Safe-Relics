@@ -49,8 +49,8 @@ def get_character_urls(driver: webdriver.Firefox) -> dict:
 def open_character_build_tab(driver: webdriver.Firefox):
     # Sometimes the page refreshes by itself after loading, ex: Feixiao
     # This would cause an error if find_element is run before the refresh happens
-    # 3 seconds sleep should fix that
-    time.sleep(3)
+    # a few seconds sleep should fix that
+    time.sleep(4)
     build_tab = driver.find_element(By.XPATH, "//div[@class='tabs']/descendant::div[5]")
 
     # 2 clicks usually works but on some characters you need 4
@@ -64,17 +64,24 @@ def open_character_build_tab(driver: webdriver.Firefox):
 
 def get_relic_sets(driver: webdriver.Firefox) -> list:
     relics = []
-    relic_sets = driver.find_element(By.XPATH, "//*[contains(text(), 'Best Relic Sets')]/following-sibling::div")
+    for i in range(1, 10, 1):
+        relic_sets = driver.find_element(By.XPATH, f"(//*[contains(text(), 'Best Relic Sets')]/following-sibling::div)[{i}]")
+        if relic_sets.is_displayed():
+            break
     relic_set_names = relic_sets.find_elements(By.XPATH, ".//button")
     for relic in relic_set_names:
         # Text split mainly used for removing "X debuffs required" on nihility set
         relics.append(relic.text.split("\n")[0])
     relics = list(set(relics.copy()))
+    print("\n")
     return relics
     
 def get_planar_sets(driver: webdriver.Firefox) -> list:
     planar_ornaments = []
-    planar_ornament_sets = driver.find_element(By.XPATH, "//*[contains(text(), 'Best Planetary Sets')]/following-sibling::div")
+    for i in range(1, 10, 1):
+        planar_ornament_sets = driver.find_element(By.XPATH, f"(//*[contains(text(), 'Best Planetary Sets')]/following-sibling::div)[{i}]")
+        if planar_ornament_sets.is_displayed():
+            break
     planar_set_names = planar_ornament_sets.find_elements(By.XPATH, ".//button")
     for ornament in planar_set_names:
         planar_ornaments.append(ornament.text)
@@ -83,7 +90,10 @@ def get_planar_sets(driver: webdriver.Firefox) -> list:
 
 def get_stats(driver: webdriver.Firefox) -> dict:
     stats = {}
-    stats_element = driver.find_element(By.XPATH, "//div[contains(text(), 'Best Stats')]/following-sibling::div")
+    for i in range(1, 10, 1):
+        stats_element = driver.find_element(By.XPATH, f"(//div[contains(text(), 'Best Stats')]/following-sibling::div)[{i}]")
+        if stats_element.is_displayed():
+            break
     stats_cols = stats_element.find_elements(By.XPATH, ".//div[@class='col']")
     for col in stats_cols:
         piece = col.find_element(By.XPATH, ".//div[@class='stats-header']/span")
@@ -93,6 +103,25 @@ def get_stats(driver: webdriver.Firefox) -> dict:
             stat.append(i.text)
         stats[piece.text] = stat
     return stats
+
+def get_character_builds(driver: webdriver.Firefox) -> dict:
+    time.sleep(1)
+    build_tablist = driver.find_element(By.CSS_SELECTOR, "ul[class*='build-tab']")
+    driver.execute_script('''
+        arguments[0].classList.remove('single-build');
+        arguments[0].classList.add('more-build'); 
+    ''', build_tablist)
+    build_tabs = build_tablist.find_elements(By.XPATH, ".//button")
+    builds = {}
+    for build in build_tabs:
+        build.click()
+        build.click()
+        time.sleep(1)
+        relics = get_relic_sets(driver)
+        planar_ornaments = get_planar_sets(driver)
+        stats = get_stats(driver)
+        builds[build.text] = {"Relics": relics, "Planar Ornaments": planar_ornaments, "Stats": stats}
+    return builds
 
 if __name__ == "__main__":
     options = Options()
@@ -106,24 +135,22 @@ if __name__ == "__main__":
     driver.implicitly_wait(20)
 
     available_relics = get_available_relics(driver)
+    # available_relics = 0
     print(f"Available Relics: {available_relics}")
+    print()
 
     urls = get_character_urls(driver)
-    
+    # urls = {"March 7th • The Hunt": "https://www.prydwen.gg/star-rail/characters/march-7th-swordmaster"}
+
     relic_stats = {}
     for name, url in urls.items():
         driver.get(url)
         open_character_build_tab(driver)
-        relics = get_relic_sets(driver)
-        planar_ornaments = get_planar_sets(driver)
-        stats = get_stats(driver)
-        relic_stats[name] = {"Relics": relics, "Planar Ornaments": planar_ornaments, "Stats": stats}
+        builds = get_character_builds(driver)
+        relic_stats[name] = builds
 
         print(name)
-        print(f"Relics: {relics}")
-        print(f"Planar Ornaments: {planar_ornaments}")
-        print(f"Relic & Ornament Stats: {stats}")
-        print()
+        print(f"Builds: {builds}")
 
     relic_data = {"Available Relics": available_relics, "Relic Stats": relic_stats}
     
